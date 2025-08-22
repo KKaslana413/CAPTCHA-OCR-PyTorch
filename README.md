@@ -122,5 +122,3 @@ python train.py
 
 ## 📄 许可证
 建议使用 MIT 或 Apache-2.0，根据你的业务场景选择。
-
-> 如需我帮你补齐 `requirements.txt`、生成推理脚本或添加 Dockerfile，也可以告诉我你的运行环境与需求。
